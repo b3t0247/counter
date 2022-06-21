@@ -37,7 +37,21 @@ countBtn.addEventListener('click', () => {
 // const amount = document.getElementsById("amount");
 
 // btn.onclick = function() {
-//     counter ++;
-//     disp.innerHTML = count;
-//     const number = +amount.value;
+//     roundCount ++;
+//     disp.innerHTML = counting;
+//     const number =+ amount.value;
 // }
+
+// const cats = ['Pete', 'Biggles', 'Jasmine'];
+
+// let myFavoriteCats = 'My cats are called';
+
+// for (let i = 0; i < cats.length; i++) {
+//     if (i === cats.length -1) { // End of array
+//         myFavoriteCats = `${myFavoriteCats} and ${cats[i]}.`
+//     } else {
+//         myFavoriteCats = `${myFavoriteCats} ${cats[i]},`
+//     }
+// }
+
+// console.log(myFavoriteCats);
